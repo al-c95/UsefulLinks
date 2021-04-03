@@ -27,3 +27,7 @@ https://sqa.stackexchange.com/questions/6088/difference-between-requirement-use-
 https://www.ibm.com/developerworks/rational/library/04/r-3217/
 
 https://www.guru99.com/traceability-matrix.html
+
+# Design Patterns
+## .NET
+https://www.dofactory.com/net/design-patterns
