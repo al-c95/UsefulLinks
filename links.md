@@ -18,6 +18,9 @@ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-de
 ## Command line
 https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/
 
+## JavaScript
+https://skillcrush.com/blog/projects-you-can-do-with-javascript/
+
 # Software Testing
 ## Use case testing and traceability
 https://www.softwaretestinghelp.com/use-case-testing/
