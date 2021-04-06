@@ -59,3 +59,7 @@ https://medium.com/swlh/how-to-run-background-worker-processes-in-an-electron-ap
 
 ## Packaging
 https://www.christianengvall.se/electron-packager-tutorial/
+
+# Version Control
+## Git best practices
+https://softwareengineering.stackexchange.com/questions/165725/git-branching-and-tagging-best-practices
