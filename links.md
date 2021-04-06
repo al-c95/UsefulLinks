@@ -44,6 +44,11 @@ https://www.guru99.com/traceability-matrix.html
 https://www.dofactory.com/net/design-patterns
 
 # Electron
+## Brad Traversy's intro videos
+https://www.youtube.com/watch?v=kN1Czs0m1SU
+
+https://www.youtube.com/watch?v=mr9Mtm_TRpw
+
 ## Tips
 https://blog.axosoft.com/electron-things-to-know/
 
