@@ -40,3 +40,6 @@ https://www.dofactory.com/net/design-patterns
 https://blog.axosoft.com/electron-things-to-know/
 
 https://www.freecodecamp.org/news/lessons-learned-from-electronjs/
+
+## Running background processes
+https://medium.com/swlh/how-to-run-background-worker-processes-in-an-electron-app-e0dc310a93cc
