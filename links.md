@@ -26,6 +26,9 @@ https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_co
 ## JavaScript
 https://skillcrush.com/blog/projects-you-can-do-with-javascript/
 
+## Web apps
+https://www.codementor.io/@mahil/10-web-app-ideas-you-can-build-as-side-projects-1bimcrdepx
+
 # Software Testing
 ## Use case testing and traceability
 https://www.softwaretestinghelp.com/use-case-testing/
