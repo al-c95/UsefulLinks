@@ -34,3 +34,9 @@ https://www.guru99.com/traceability-matrix.html
 # Design Patterns
 ## .NET
 https://www.dofactory.com/net/design-patterns
+
+# Electron
+## Tips
+https://blog.axosoft.com/electron-things-to-know/
+
+https://www.freecodecamp.org/news/lessons-learned-from-electronjs/
