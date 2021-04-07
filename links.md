@@ -66,3 +66,4 @@ https://softwareengineering.stackexchange.com/questions/165725/git-branching-and
 
 # JavaScript
 `var`, `let` and `const`: https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
+https://stackoverflow.com/questions/64348453/how-to-use-a-progress-bar-in-electron
