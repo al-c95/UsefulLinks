@@ -63,3 +63,6 @@ https://www.christianengvall.se/electron-packager-tutorial/
 # Version Control
 ## Git best practices
 https://softwareengineering.stackexchange.com/questions/165725/git-branching-and-tagging-best-practices
+
+# JavaScript
+`var`, `let` and `const`: https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
