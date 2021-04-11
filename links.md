@@ -54,6 +54,9 @@ https://blog.axosoft.com/electron-things-to-know/
 
 https://www.freecodecamp.org/news/lessons-learned-from-electronjs/
 
+## Sqlite
+https://www.computerhope.com/issues/ch002076.htm
+
 ## Running background processes
 https://medium.com/swlh/how-to-run-background-worker-processes-in-an-electron-app-e0dc310a93cc
 
