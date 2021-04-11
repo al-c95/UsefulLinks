@@ -15,6 +15,9 @@ Creating tree views: https://www.w3schools.com/howto/howto_js_treeview.asp
 
 Creating tabs: https://www.w3schools.com/howto/howto_js_tabs.asp
 
+## Packages
+Data table: https://datatables.net/download/
+
 # Encoding
 ## Joel Spolsky's "minimums"
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
