@@ -77,3 +77,5 @@ https://stackoverflow.com/questions/64348453/how-to-use-a-progress-bar-in-electr
 Import and require: https://stackoverflow.com/questions/46677752/the-difference-between-requirex-and-import-x#:~:text=The%20major%20difference%20between%20require,The%20future%20version%20of%20Node.
 
 Modules: https://javascript.info/modules-intro
+
+db.Serialize: https://stackoverflow.com/questions/41949724/how-does-db-serialize-work-in-node-sqlite3
