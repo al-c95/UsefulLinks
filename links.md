@@ -45,6 +45,7 @@ https://www.guru99.com/traceability-matrix.html
 # Design Patterns and Architecture
 ## .NET
 https://www.dofactory.com/net/design-patterns
+Winforms MPV: https://grantwinney.com/its-possible-to-test-a-winforms-app-using-mvp/
 Winforms MVP, multiple views: https://stackoverflow.com/questions/42937593/winforms-mvp-pattern-w-multiple-views
 
 # Electron
