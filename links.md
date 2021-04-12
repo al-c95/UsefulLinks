@@ -42,9 +42,10 @@ https://www.ibm.com/developerworks/rational/library/04/r-3217/
 
 https://www.guru99.com/traceability-matrix.html
 
-# Design Patterns
+# Design Patterns and Architecture
 ## .NET
 https://www.dofactory.com/net/design-patterns
+Winforms MVP, multiple views: https://stackoverflow.com/questions/42937593/winforms-mvp-pattern-w-multiple-views
 
 # Electron
 ## Brad Traversy's intro videos
