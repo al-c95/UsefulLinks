@@ -18,6 +18,10 @@ Creating tabs: https://www.w3schools.com/howto/howto_js_tabs.asp
 ## Packages
 Data table: https://datatables.net/download/
 
+## Wireframing, design and mockups
+UI design patterns: http://ui-patterns.com/
+Templates for wireframing: https://sneakpeekit.com/
+
 # Encoding
 ## Joel Spolsky's "minimums"
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
