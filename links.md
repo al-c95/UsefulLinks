@@ -85,3 +85,6 @@ Import and require: https://stackoverflow.com/questions/46677752/the-difference-
 Modules: https://javascript.info/modules-intro
 
 db.Serialize: https://stackoverflow.com/questions/41949724/how-does-db-serialize-work-in-node-sqlite3
+
+# WinForms
+Tips for building maintainable and testable applications: https://markheath.net/post/maintainable-winforms
