@@ -65,6 +65,8 @@ https://blog.axosoft.com/electron-things-to-know/
 
 https://www.freecodecamp.org/news/lessons-learned-from-electronjs/
 
+https://codeburst.io/what-i-learned-from-building-my-first-electron-js-app-ae41d3f69379
+
 ## Sqlite
 https://www.computerhope.com/issues/ch002076.htm
 
