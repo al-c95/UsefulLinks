@@ -27,6 +27,8 @@ Templates for wireframing: https://sneakpeekit.com/
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 # Project Ideas
+https://github.com/joereynolds/what-to-code#desktop
+
 ## Command line
 https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/
 
