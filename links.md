@@ -22,6 +22,9 @@ Data table: https://datatables.net/download/
 UI design patterns: http://ui-patterns.com/
 Templates for wireframing: https://sneakpeekit.com/
 
+## Front-end frameworks
+https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
+
 # Encoding
 ## Joel Spolsky's "minimums"
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
