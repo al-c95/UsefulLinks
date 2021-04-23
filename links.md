@@ -22,6 +22,9 @@ Data table: https://datatables.net/download/
 UI design patterns: http://ui-patterns.com/
 Templates for wireframing: https://sneakpeekit.com/
 
+## Code playgrounds and sandboxes
+https://www.codeply.com/
+
 ## Front-end frameworks
 https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
 https://kodytechnolab.com/why-use-angular
