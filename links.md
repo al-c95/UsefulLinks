@@ -24,6 +24,7 @@ Templates for wireframing: https://sneakpeekit.com/
 
 ## Front-end frameworks
 https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
+https://kodytechnolab.com/why-use-angular
 
 # Encoding
 ## Joel Spolsky's "minimums"
