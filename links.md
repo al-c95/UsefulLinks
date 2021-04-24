@@ -105,3 +105,9 @@ db.Serialize: https://stackoverflow.com/questions/41949724/how-does-db-serialize
 
 # WinForms
 Tips for building maintainable and testable applications: https://markheath.net/post/maintainable-winforms
+
+# Procedural programming
+## Top-down design
+https://www.teamten.com/lawrence/programming/write-code-top-down.html
+
+http://faculty.salina.k-state.edu/tmertz/Java/210proceduralprogramdesign/05topdownproceduralprogramming.pdf
