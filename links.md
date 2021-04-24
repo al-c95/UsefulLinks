@@ -59,6 +59,11 @@ https://www.ibm.com/developerworks/rational/library/04/r-3217/
 
 https://www.guru99.com/traceability-matrix.html
 
+## Test-driven development
+C#: https://carlosschults.net/en/csharp-unit-testing-intro-tdd/
+
+C#: https://www.freecodecamp.org/news/tdd-explanation-hands-on-practice-with-c-a0124338be44/
+
 # Design Patterns and Architecture
 ## .NET
 https://www.dofactory.com/net/design-patterns
