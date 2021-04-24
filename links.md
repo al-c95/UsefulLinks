@@ -30,6 +30,9 @@ https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
 https://kodytechnolab.com/why-use-angular
 https://dev.to/evybauer/i-had-to-learn-angular-8-in-24-hours-here-is-how-go1
 
+## Bootstrap
+https://bootsnipp.com/snippets/2Dlo
+
 # Encoding
 ## Joel Spolsky's "minimums"
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
