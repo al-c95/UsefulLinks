@@ -27,7 +27,9 @@ https://www.codeply.com/
 
 ## Front-end frameworks
 https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
+
 https://kodytechnolab.com/why-use-angular
+
 https://dev.to/evybauer/i-had-to-learn-angular-8-in-24-hours-here-is-how-go1
 
 ## Bootstrap
