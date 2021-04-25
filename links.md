@@ -73,6 +73,8 @@ Winforms MVP: https://grantwinney.com/its-possible-to-test-a-winforms-app-using-
 Winforms MVP, multiple views: https://stackoverflow.com/questions/42937593/winforms-mvp-pattern-w-multiple-views
 
 # Electron
+Creating and using windows: https://coursetro.com/posts/code/120/Creating-and-Using-Windows-in-Electron
+
 ## Brad Traversy's intro videos
 https://www.youtube.com/watch?v=kN1Czs0m1SU
 
