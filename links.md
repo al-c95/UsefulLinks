@@ -78,6 +78,8 @@ https://stackoverflow.com/questions/9772976/winforms-mvp-with-multiple-views-and
 
 Winforms MVP, dialogs: http://www.rickardnilsson.net/post/The-Humble-dialog-v2.html
 
+Winforms MVP, subviews: https://stackoverflow.com/questions/1063089/loading-subviews-with-mvp
+
 # Electron
 Creating and using windows: https://coursetro.com/posts/code/120/Creating-and-Using-Windows-in-Electron
 
