@@ -135,3 +135,5 @@ Auth, API keys and OAuth: https://nordicapis.com/the-difference-between-http-aut
 
 ## Free/open APIs
 https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+
+https://apipheny.io/free-api/
