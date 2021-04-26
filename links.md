@@ -129,3 +129,6 @@ Tips for building maintainable and testable applications: https://markheath.net/
 https://www.teamten.com/lawrence/programming/write-code-top-down.html
 
 http://faculty.salina.k-state.edu/tmertz/Java/210proceduralprogramdesign/05topdownproceduralprogramming.pdf
+
+# REST API
+Auth, API keys and OAuth: https://nordicapis.com/the-difference-between-http-auth-api-keys-and-oauth/
