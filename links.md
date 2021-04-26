@@ -76,6 +76,8 @@ http://thomassoftwareconsulting.blogspot.com/2012/09/using-mvp-pattern.html
 Winforms MVP, multiple views: https://stackoverflow.com/questions/42937593/winforms-mvp-pattern-w-multiple-views, 
 https://stackoverflow.com/questions/9772976/winforms-mvp-with-multiple-views-and-one-presenter
 
+Winforms MVP, dialogs: http://www.rickardnilsson.net/post/The-Humble-dialog-v2.html
+
 # Electron
 Creating and using windows: https://coursetro.com/posts/code/120/Creating-and-Using-Windows-in-Electron
 
