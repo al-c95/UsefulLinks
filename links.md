@@ -72,7 +72,8 @@ https://www.dofactory.com/net/design-patterns
 
 Winforms MVP: https://grantwinney.com/its-possible-to-test-a-winforms-app-using-mvp/
 
-Winforms MVP, multiple views: https://stackoverflow.com/questions/42937593/winforms-mvp-pattern-w-multiple-views
+Winforms MVP, multiple views: https://stackoverflow.com/questions/42937593/winforms-mvp-pattern-w-multiple-views, 
+https://stackoverflow.com/questions/9772976/winforms-mvp-with-multiple-views-and-one-presenter
 
 # Electron
 Creating and using windows: https://coursetro.com/posts/code/120/Creating-and-Using-Windows-in-Electron
