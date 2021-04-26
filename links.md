@@ -132,3 +132,6 @@ http://faculty.salina.k-state.edu/tmertz/Java/210proceduralprogramdesign/05topdo
 
 # REST API
 Auth, API keys and OAuth: https://nordicapis.com/the-difference-between-http-auth-api-keys-and-oauth/
+
+## Free/open APIs
+https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
