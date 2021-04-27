@@ -81,6 +81,8 @@ https://stackoverflow.com/questions/9772976/winforms-mvp-with-multiple-views-and
 
 Winforms MVP, dialogs: http://www.rickardnilsson.net/post/The-Humble-dialog-v2.html
 
+Winforms MVP, humble dialog: http://codebetter.com/jeremymiller/2005/07/20/a-simple-example-of-the-humble-dialog-box/
+
 Winforms MVP, subviews: https://stackoverflow.com/questions/1063089/loading-subviews-with-mvp
 
 MVP, multiple triads: https://softwareengineering.stackexchange.com/questions/245103/showing-a-view-from-another-view-in-mvp
@@ -142,3 +144,4 @@ Auth, API keys and OAuth: https://nordicapis.com/the-difference-between-http-aut
 https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 
 https://apipheny.io/free-api/
+
