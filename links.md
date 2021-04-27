@@ -66,6 +66,9 @@ C#: https://carlosschults.net/en/csharp-unit-testing-intro-tdd/
 
 C#: https://www.freecodecamp.org/news/tdd-explanation-hands-on-practice-with-c-a0124338be44/
 
+## Unit testing
+https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-coverage/
+
 # Design Patterns and Architecture
 ## .NET
 https://www.dofactory.com/net/design-patterns
