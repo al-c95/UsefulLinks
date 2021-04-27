@@ -145,3 +145,7 @@ https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
 
 https://apipheny.io/free-api/
 
+# Version control
+## Git
+Creating new local branch: https://gist.github.com/nanusdad/7e516743e5e709073f7e
+
