@@ -80,6 +80,8 @@ Winforms MVP, dialogs: http://www.rickardnilsson.net/post/The-Humble-dialog-v2.h
 
 Winforms MVP, subviews: https://stackoverflow.com/questions/1063089/loading-subviews-with-mvp
 
+MVP, multiple triads: https://softwareengineering.stackexchange.com/questions/245103/showing-a-view-from-another-view-in-mvp
+
 # Electron
 Creating and using windows: https://coursetro.com/posts/code/120/Creating-and-Using-Windows-in-Electron
 
