@@ -75,6 +75,8 @@ Strategy and template method: https://stackoverflow.com/questions/62814285/can-t
 ## .NET
 https://www.dofactory.com/net/design-patterns
 
+Using strategy and factory: https://softwareengineering.stackexchange.com/questions/405688/strategy-vs-factory-design-pattern
+
 Winforms MVP: https://grantwinney.com/its-possible-to-test-a-winforms-app-using-mvp/,
 http://thomassoftwareconsulting.blogspot.com/2012/09/using-mvp-pattern.html
 
