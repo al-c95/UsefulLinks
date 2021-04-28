@@ -70,6 +70,8 @@ C#: https://www.freecodecamp.org/news/tdd-explanation-hands-on-practice-with-c-a
 https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-coverage/
 
 # Design Patterns and Architecture
+Strategy and template method: https://stackoverflow.com/questions/62814285/can-two-strategies-in-a-strategy-pattern-use-the-same-code-does-this-make-it-a?noredirect=1&lq=1
+
 ## .NET
 https://www.dofactory.com/net/design-patterns
 
