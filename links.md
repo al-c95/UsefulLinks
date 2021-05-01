@@ -156,3 +156,5 @@ Creating new local branch: https://gist.github.com/nanusdad/7e516743e5e709073f7e
 # TypeScript
 https://www.freecodecamp.org/news/learn-typescript-in-5-minutes-13eda868daeb/
 
+# Interpreters and parsers
+https://craftinginterpreters.com/
