@@ -158,3 +158,5 @@ https://www.freecodecamp.org/news/learn-typescript-in-5-minutes-13eda868daeb/
 
 # Interpreters and parsers
 https://craftinginterpreters.com/
+
+https://yiou.me/blog/posts/how-does-markdown-parser-work
