@@ -91,6 +91,9 @@ Winforms MVP, subviews: https://stackoverflow.com/questions/1063089/loading-subv
 
 MVP, multiple triads: https://softwareengineering.stackexchange.com/questions/245103/showing-a-view-from-another-view-in-mvp
 
+## Test automation
+https://www.softwaretestinghelp.com/how-to-translate-manual-test-cases-into-automation-scripts/
+
 # Electron
 Creating and using windows: https://coursetro.com/posts/code/120/Creating-and-Using-Windows-in-Electron
 
