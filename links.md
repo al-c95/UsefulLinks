@@ -97,6 +97,8 @@ MVP, multiple triads: https://softwareengineering.stackexchange.com/questions/24
 https://www.softwaretestinghelp.com/how-to-translate-manual-test-cases-into-automation-scripts/
 
 # Electron
+Beginner's guide: https://medium.com/jspoint/a-beginners-guide-to-creating-desktop-applications-using-electron-824da5665047
+
 Creating and using windows: https://coursetro.com/posts/code/120/Creating-and-Using-Windows-in-Electron
 
 ## Brad Traversy's intro videos
