@@ -1,3 +1,5 @@
+GitHub collections: https://github.com/collections
+
 # Web Design
 ## Colour Palettes
 https://colorhunt.co/
