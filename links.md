@@ -40,6 +40,8 @@ Comparing Vue vs React: https://www.monterail.com/blog/vue-vs-react-2021#:~:text
 
 Beginner's guide to Vue: https://welearncode.com/beginners-guide-vue/
 
+Vue guide: https://vuejs.org/v2/guide/
+
 ## Bootstrap
 https://bootsnipp.com/snippets/2Dlo
 
