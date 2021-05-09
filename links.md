@@ -52,6 +52,8 @@ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-de
 # Project Ideas
 https://github.com/joereynolds/what-to-code#desktop
 
+https://www.blog.duomly.com/vue-js-project-ideas-for-beginners/#4-weight-tracking-app
+
 ## Command line
 https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/
 
