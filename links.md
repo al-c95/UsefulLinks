@@ -85,6 +85,8 @@ Strategy and template method: https://stackoverflow.com/questions/62814285/can-t
 ## .NET
 https://www.dofactory.com/net/design-patterns
 
+https://docs.microsoft.com/en-us/dotnet/desktop/winforms/migration/?view=netdesktop-5.0
+
 Using strategy and factory: https://softwareengineering.stackexchange.com/questions/405688/strategy-vs-factory-design-pattern
 
 Strategy vs Template method: https://stackoverflow.com/questions/669271/what-is-the-difference-between-the-template-method-and-the-strategy-patterns
