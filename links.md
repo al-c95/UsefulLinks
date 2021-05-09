@@ -28,6 +28,8 @@ Templates for wireframing: https://sneakpeekit.com/
 https://www.codeply.com/
 
 ## Front-end frameworks
+https://developer.okta.com/blog/2018/08/27/build-crud-app-vuejs-netcore
+
 https://www.codeinwp.com/blog/angular-vs-vue-vs-react/
 
 https://kodytechnolab.com/why-use-angular
