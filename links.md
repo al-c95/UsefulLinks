@@ -36,6 +36,8 @@ https://dev.to/evybauer/i-had-to-learn-angular-8-in-24-hours-here-is-how-go1
 
 Comparing Vue vs React: https://www.monterail.com/blog/vue-vs-react-2021#:~:text=Syntax,the%20view%20layer%20is%20built.&text=In%20React%2C%20on%20the%20other,how%20to%20create%20Web%20applications.
 
+Beginner's guide to Vue: https://welearncode.com/beginners-guide-vue/
+
 ## Bootstrap
 https://bootsnipp.com/snippets/2Dlo
 
