@@ -185,3 +185,6 @@ https://yiou.me/blog/posts/how-does-markdown-parser-work
 https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/
 
 https://ruslanspivak.com/lsbasi-part1/
+
+# Documentation
+https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
