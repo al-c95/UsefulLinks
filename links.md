@@ -188,3 +188,6 @@ https://ruslanspivak.com/lsbasi-part1/
 
 # Documentation
 https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/
+
+# OAuth
+https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9
