@@ -191,3 +191,7 @@ https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-6
 
 # OAuth
 https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9
+
+# Astrophysics
+## Stellar radii
+https://sciencing.com/characteristics-star-5916715.html
