@@ -194,4 +194,4 @@ https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9
 
 # Astrophysics
 ## Stellar radii
-https://sciencing.com/characteristics-star-5916715.html
+https://sciencing.com/calculate-stellar-radii-7496312.html
