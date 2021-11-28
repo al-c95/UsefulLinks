@@ -54,6 +54,8 @@ https://github.com/joereynolds/what-to-code#desktop
 
 https://www.blog.duomly.com/vue-js-project-ideas-for-beginners/#4-weight-tracking-app
 
+https://purelyfunctional.tv/guide/programming-projects-resume/#help
+
 ## Command line
 https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/
 
