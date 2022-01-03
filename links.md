@@ -109,6 +109,10 @@ Winforms MVP, subviews: https://stackoverflow.com/questions/1063089/loading-subv
 
 MVP, multiple triads: https://softwareengineering.stackexchange.com/questions/245103/showing-a-view-from-another-view-in-mvp
 
+### Unit of Work Pattern with Dapper
+https://github.com/timschreiber/DapperUnitOfWork
+https://stackoverflow.com/questions/31298235/how-to-implement-unit-of-work-pattern-with-dapper/45029588
+
 ## Test automation
 https://www.softwaretestinghelp.com/how-to-translate-manual-test-cases-into-automation-scripts/
 
