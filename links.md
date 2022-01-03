@@ -1,5 +1,9 @@
 GitHub collections: https://github.com/collections
 
+# C++
+https://stackoverflow.com/questions/22146094/why-should-i-use-a-pointer-rather-than-the-object-itself
+https://stackoverflow.com/questions/6500313/why-should-c-programmers-minimize-use-of-new?rq=1
+
 # Web Design
 ## Colour Palettes
 https://colorhunt.co/
