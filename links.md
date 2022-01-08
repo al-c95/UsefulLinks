@@ -93,6 +93,8 @@ Strategy and template method: https://stackoverflow.com/questions/62814285/can-t
 ## .NET
 https://www.dofactory.com/net/design-patterns
 
+https://www.c-sharpcorner.com/UploadFile/b08196/object-lifetime-in-net-framework/
+
 https://docs.microsoft.com/en-us/dotnet/desktop/winforms/migration/?view=netdesktop-5.0
 
 Using strategy and factory: https://softwareengineering.stackexchange.com/questions/405688/strategy-vs-factory-design-pattern
