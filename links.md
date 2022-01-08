@@ -124,6 +124,7 @@ https://dotnettutorials.net/lesson/generic-repository-pattern-csharp-mvc/
 ### Unit of Work Pattern with Dapper
 https://github.com/timschreiber/DapperUnitOfWork
 https://stackoverflow.com/questions/31298235/how-to-implement-unit-of-work-pattern-with-dapper/45029588
+https://pretagteam.com/question/generic-querymultiple-with-dapper
 
 ## Test automation
 https://www.softwaretestinghelp.com/how-to-translate-manual-test-cases-into-automation-scripts/
