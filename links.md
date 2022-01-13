@@ -123,6 +123,9 @@ https://stackoverflow.com/questions/50413130/how-to-unit-test-the-expression-bei
 https://stackoverflow.com/questions/16572743/generic-repository-with-data-access-layer
 https://dotnettutorials.net/lesson/generic-repository-pattern-csharp-mvc/
 
+### Repository pattern
+https://www.youtube.com/watch?v=x6C20zhZHw8
+
 ### Unit of Work Pattern with Dapper
 https://github.com/timschreiber/DapperUnitOfWork
 https://stackoverflow.com/questions/31298235/how-to-implement-unit-of-work-pattern-with-dapper/45029588
