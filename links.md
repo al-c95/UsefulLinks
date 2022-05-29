@@ -60,6 +60,8 @@ https://www.blog.duomly.com/vue-js-project-ideas-for-beginners/#4-weight-trackin
 
 https://purelyfunctional.tv/guide/programming-projects-resume/#help
 
+https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1
+
 ## Command line
 https://www.reddit.com/r/learnprogramming/comments/7m92i1/coding_idea_write_a_commandline_utility/
 
